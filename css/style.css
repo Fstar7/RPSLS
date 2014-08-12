@@ -114,3 +114,10 @@ img:active
 	font-family: Arial;
 	color: #ED7637;
 }
+
+a 
+{
+	color: #ED7637;
+	font-weight: bold;
+	text-decoration: none;
+}
