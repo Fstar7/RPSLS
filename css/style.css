@@ -1,0 +1,116 @@
+/* Simple */
+
+body
+{	
+	background: #fbf8f4 url(../img/bg.png) repeat top left;
+}
+
+h1
+{
+	text-align: center;
+	font-family: Arial;
+	color: #ED7637;
+}
+
+.buttons
+{
+	margin: 5% 0 5% 15%;
+}
+
+img
+{
+	display: inline-block;
+	padding: 0;
+	margin-right: 10px;
+	width: 15%;
+	border-radius:100px;
+	position:relative;
+	border-bottom:0 solid #BD8B4E;
+	box-shadow:0 5px 5px #BD8B4E,0 9px 0 #5e3a25,0px 9px 10px rgba(0,0,0,0.4),inset 0px 2px 9px rgba(255,255,255,0.2),inset 0 -2px 9px rgba(0,0,0,0.2);
+}
+
+img:hover 
+{
+	opacity: 0.75;
+	box-shadow:0 5px 5px #BD8B4E,0 9px 0 #5e3a25,0px 9px 10px rgba(0,0,0,0.4),inset 0px 2px 15px rgba(255,255,255,0.4),inset 0 -2px 9px rgba(0,0,0,0.2);
+}
+
+img:active
+{
+	top:15px;
+	box-shadow:0 2px 0 #BD8B4E,0px 4px 4px rgba(0,0,0,0.4),inset 0px 2px 5px rgba(0,0,0,0.2);
+}
+
+#choice 
+{
+	display: block;
+	text-align: center;
+	margin: 5% 0 2% 22%;
+	padding: 5px;
+	vertical-align: auto;
+	height: 40px;
+	width: 700px;
+	background-color: #ED7637; 
+	font-family: Arial;
+	font-size: 25px;
+	color: #ffffff;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+
+#win
+{
+	display: none;
+	text-align: center;
+	margin: auto;
+	vertical-align: auto;
+	height: 40px;
+	width: 150px;
+	background-color: #ED7637; 
+	font-family: Arial;
+	font-size: 25px;
+	color: #ffffff;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+
+#lose
+{
+	display: none;
+	text-align: center;
+	margin: auto;
+	height: 40px;
+	width: 150px;
+	background-color: #ED7637; 
+	text-align: center;
+	font-family: Arial;
+	font-size: 25px;
+	color: #ffffff;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	vertical-align: auto;
+}
+
+#tie
+{
+	display: none;
+	text-align: center;
+	margin: auto;
+	height: 40px;
+	width: 150px;
+	background-color: #ED7637; 
+	text-align: center;
+	font-family: Arial;
+	font-size: 25px;
+	color: #ffffff;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	vertical-align: auto;
+}
+
+.foot 
+{
+	text-align: center;
+	font-family: Arial;
+	color: #ED7637;
+}
