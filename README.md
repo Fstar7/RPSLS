@@ -1,7 +1,7 @@
 <h1>RPSLS</h1>
 <h1>=====</h1>
 
-Esto es una versión interactiva del jeugo Piedra, Papel, Tijera, Lagarto, Spock.
+Esto es una versión interactiva del juego Piedra, Papel, Tijera, Lagarto, Spock.
 
 Como lo explicaría el gran Sheldon:
 
@@ -9,7 +9,7 @@ Como lo explicaría el gran Sheldon:
 
 -----------------------------------------------------------------------
 
-This is a interactive version of the game Rock, Paper, Scissors, Lizard, Spock.
+This is an interactive version of the game Rock, Paper, Scissors, Lizard, Spock.
 
 As explained by the great Sheldon:
 
